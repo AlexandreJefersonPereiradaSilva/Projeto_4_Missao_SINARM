@@ -1,3 +1,4 @@
+
 import csv
 
 name_file = 'OCORRENCIAS_2025.csv'
@@ -73,3 +74,4 @@ try:
 
 except FileNotFoundError:
     print('Errorr')
+
